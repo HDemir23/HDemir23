@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmet Hakan Demir
-- 👀 I’m interested in Game Designing
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Smart Contract / Blockchain
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me a.hakandemir23@gmail.com
 
 <!---
