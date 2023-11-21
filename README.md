@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmet Hakan Demir
-- 👀 I’m interested in Smart Contract / Blockchain
+- 👀 I’m interested in Frontend / Game Development
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me a.hakandemir23@gmail.com
 
