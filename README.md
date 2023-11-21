@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmet Hakan Demir
 - 👀 I’m interested in Frontend / Game Development
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning React/TypeScript
 - 📫 How to reach me a.hakandemir23@gmail.com
 
 <!---
