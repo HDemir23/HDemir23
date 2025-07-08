@@ -26,8 +26,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HDemir23/count.svg?"  />
-</div>
-
-###
