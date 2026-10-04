@@ -4,7 +4,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 const user = process.env.GH_USER;
 const headers = { Authorization: `Bearer ${process.env.GITHUB_TOKEN}`, "User-Agent": "langs-card" };
 const skipRepos = new Set([user.toLowerCase(), "achievement-playground"]);
-const skipLangs = new Set(["HTML", "CSS", "SCSS", "Jupyter Notebook", "Makefile", "Dockerfile", "Shell"]);
+const skipLangs = new Set(["HTML", "CSS", "SCSS", "Jupyter Notebook", "Makefile", "Dockerfile", "Shell", "Solidity", "Move"]);
 
 const repos = [];
 for (let page = 1; ; page++) {
