@@ -52,21 +52,21 @@ const hakan = {
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <h4>SuiGit</h4>
+      <h4><a href="https://github.com/HDemir23/SuigitVol2">SuiGit</a></h4>
       <sub>Git, fully on-chain. Repos, commits, branches and PRs on Sui.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white" alt="Sui" />
       <img src="https://img.shields.io/badge/Walrus-00C2FF?style=flat-square" alt="Walrus" />
       <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
     </td>
     <td width="33%" valign="top">
-      <h4>AION</h4>
+      <h4><a href="https://github.com/HDemir23/AION-_">AION</a></h4>
       <sub>LLMs debate in parallel; consensus gets verified on-chain.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" alt="Monad" />
       <img src="https://img.shields.io/badge/Solidity-1A1B27?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
       <img src="https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     </td>
     <td width="33%" valign="top">
-      <h4>Port6</h4>
+      <h4><a href="https://github.com/HDemir23/MonadHackhathon2Frontend">Port6</a></h4>
       <sub>On-chain lootbox with verifiable randomness. Built at Monad Blitz.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" alt="Monad" />
       <img src="https://img.shields.io/badge/Solidity-1A1B27?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
@@ -76,7 +76,7 @@ const hakan = {
   <tr>
     <td width="33%" valign="top">
       <h4>XClaw</h4>
-      <sub>A DeFi copilot powered by x402.</sub><br/><br/>
+      <sub>DeFi copilot on Monad, gated by x402 micropayments.</sub><br/><br/>
       <img src="https://img.shields.io/badge/x402-70A5FD?style=flat-square" alt="x402" />
       <img src="https://img.shields.io/badge/DeFi-1A1B27?style=flat-square" alt="DeFi" />
       <img src="https://img.shields.io/badge/AI-38BDAE?style=flat-square" alt="AI" />
@@ -97,27 +97,44 @@ const hakan = {
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4>XEngine</h4>
-      <sub>Real-time API server. Learned Rust for it, during a hackathon.</sub><br/><br/>
+      <h4><a href="https://github.com/HDemir23/XEngine">XEngine</a></h4>
+      <sub>Rust API server behind XClaw: x402-paid DeFi data on Monad.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Rust-1A1B27?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/axum%20%C2%B7%20tokio-70A5FD?style=flat-square" alt="axum, tokio" />
     </td>
     <td width="33%" valign="top">
-      <h4>Trade Analyzer</h4>
+      <h4><a href="https://github.com/HDemir23/Telegram-Trade-Analyzer-Advicer">Trade Analyzer</a></h4>
       <sub>Telegram bot: RSI / MACD / ATR signals, alerts, P&amp;L, backtests.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Telegram-1A1B27?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" />
       <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
     </td>
     <td width="33%" valign="top">
-      <h4>MCPTree</h4>
+      <h4><a href="https://github.com/HDemir23/mcpProvide-Frontend">MCPTree</a></h4>
       <sub>Tooling for Model Context Protocol servers.</sub><br/><br/>
       <img src="https://img.shields.io/badge/MCP-1A1B27?style=flat-square&logo=anthropic&logoColor=38BDAE" alt="MCP" />
       <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/HDemir23/LUM3ND">LUM3ND</a></h4>
+      <sub>One cart for Turkish stores, one USDC payment on Stellar.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Stellar-1A1B27?style=flat-square&logo=stellar&logoColor=white" alt="Stellar" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/HDemir23/xSwapV2">xSwap V2</a></h4>
+      <sub>Token swaps on Monad via Kuru DEX, with a bot API.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Monad-836EF9?style=flat-square" alt="Monad" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/HDemir23/Clawaifu">Clawaifu</a></h4>
+      <sub>Retro terminal boot that turns into an AI-controlled 3D character, paid via x402.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Three.js-1A1B27?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+    </td>
+  </tr>
 </table>
 
-<p align="center"><sub>Most of these live in private repos. Ask me about any of them.</sub></p>
+<p align="center"><sub>Linked projects are public; the rest live in private repos. Ask me about any of them.</sub></p>
 
 <!-- Stats -->
 <h3 align="center">Activity</h3>
