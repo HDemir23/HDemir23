@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://hakandemir.com.tr"><img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=safari&logoColor=70A5FD" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/realhdemir"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/realhdemir"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjNzBBNUZEIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc3LjJWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTI3LjQgNDIuNy02MC42IDk1LjM5LTYwLjYgOTQgMCAxMTEuMjggNjEuOSAxMTEuMjggMTQyLjNWNDQ4eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:a.hakandemir23@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=BF91F3" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Ankara%2C%20TR-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=38BDAE" alt="Ankara, Turkey" />
 </p>
