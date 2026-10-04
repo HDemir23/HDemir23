@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=E6E6E6&background=0A0A0A&center=false&vCenter=true&width=760&height=44&lines=%24+full-stack+developer;%24+web+apps+%C2%B7+React%2C+Next.js;%24+mobile+apps+%C2%B7+React+Native%2C+Expo;%24+desktop+apps+%C2%B7+Electron;%24+AI+%26+automation+tinkerer" width="760" alt="full-stack developer · web · mobile · desktop · AI &amp; automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=E6E6E6&background=0A0A0A&center=true&vCenter=true&width=760&height=44&lines=%24+full-stack+developer;%24+web+apps+%C2%B7+React%2C+Next.js;%24+mobile+apps+%C2%B7+React+Native%2C+Expo;%24+desktop+apps+%C2%B7+Electron;%24+AI+%26+automation+tinkerer" width="760" alt="full-stack developer · web · mobile · desktop · AI &amp; automation" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:a.hakandemir23@gmail.com"><img src="https://img.shields.io/badge/a.hakandemir23@gmail.com-000000?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 </p>
 
-```console
+```text
 hakan@github:~$ neofetch
 
   ██╗  ██╗██████╗     hakan@github
@@ -26,7 +26,7 @@ hakan@github:~$ neofetch
                       status     open to remote work
 ```
 
-```console
+```text
 hakan@github:~$ cat about.txt
 I build products end to end: React / Next.js on the web, React Native + Expo
 on mobile, Electron on the desktop, Node.js and Rust behind them.
@@ -34,7 +34,7 @@ Lately: AI tooling, LLM workflows, MCP servers, scrapers and bots that
 automate the boring parts.
 ```
 
-```console
+```text
 hakan@github:~$ cat stack.txt
 lang       typescript  javascript  rust  python  swift
 web        react  next.js  vite  tailwind  three.js
@@ -46,26 +46,26 @@ ai         openrouter  openai  mcp
 infra      docker  vercel  railway  github-actions
 ```
 
-```console
+```text
 hakan@github:~$ ls -l ~/projects
 ```
 
 | perms | name | type | what it does |
 | :-- | :-- | :-- | :-- |
-| `drwxr-xr-x` | [**gitfut**](https://github.com/HDemir23/gitfut) | `web` | Your GitHub stats, turned into a World-Cup-style player card. Next.js |
-| `drwxr-xr-x` | [**mcptree**](https://github.com/HDemir23/mcpProvide-Frontend) | `web` | Drag-and-drop workflow builder for AI agents. Next.js |
-| `drwxr-xr-x` | [**veresiye-defteri**](https://github.com/HDemir23/Veresiye-Defteri-Demo-app) | `web` | Credit and purchase ledger for restaurants, with PDF / Excel reports. React + Vite |
-| `drwxr-xr-x` | [**clawaifu**](https://github.com/HDemir23/Clawaifu) | `web` | Retro terminal boot sequence that turns into an AI-controlled 3D character. Next.js + Three.js |
-| `drwx------` | **vitadraft** | `mobile` | AI-assisted resumes and cover letters. React Native + Expo |
-| `drwx------` | **expenses-app** | `mobile` | Expense tracker with live currency rates and light / dark themes. Expo |
-| `drwx------` | **suna** | `desktop` | AI rule console: chat with OpenRouter models using custom rules, cost tracking and MCP tools. Electron |
-| `drwxr-xr-x` | [**trade-analyzer**](https://github.com/HDemir23/Telegram-Trade-Analyzer-Advicer) | `bot` | Telegram bot for AI market analysis, alerts and manual position tracking. TypeScript |
-| `drwx------` | **ai-image-generator** | `cli` | Batch image-to-image CLI over OpenRouter, OpenAI and Runware. TypeScript |
-| `drwx------` | **carscrapper** | `service` | Car-listing scraper with headless Chromium, served as a Docker service. Rust |
+| `drwxr‑xr‑x` | [**gitfut**](https://github.com/HDemir23/gitfut) | `web` | GitHub stats as a World-Cup-style player card · next.js |
+| `drwxr‑xr‑x` | [**mcptree**](https://github.com/HDemir23/mcpProvide-Frontend) | `web` | Drag-and-drop workflow builder for AI agents · next.js |
+| `drwxr‑xr‑x` | [**veresiye-defteri**](https://github.com/HDemir23/Veresiye-Defteri-Demo-app) | `web` | Credit ledger for restaurants with PDF / Excel reports · react |
+| `drwxr‑xr‑x` | [**clawaifu**](https://github.com/HDemir23/Clawaifu) | `web` | Terminal boot that becomes an AI-driven 3D character · three.js |
+| `drwx‑‑‑‑‑‑` | **vitadraft** | `mobile` | AI-assisted resumes and cover letters · expo |
+| `drwx‑‑‑‑‑‑` | **expenses-app** | `mobile` | Expense tracker with live currency rates · expo |
+| `drwx‑‑‑‑‑‑` | **suna** | `desktop` | AI rule console for OpenRouter models, with MCP tools · electron |
+| `drwxr‑xr‑x` | [**trade-analyzer**](https://github.com/HDemir23/Telegram-Trade-Analyzer-Advicer) | `bot` | Telegram bot for AI market analysis and alerts · typescript |
+| `drwx‑‑‑‑‑‑` | **ai-image-generator** | `cli` | Batch image-to-image CLI (OpenRouter, OpenAI, Runware) · typescript |
+| `drwx‑‑‑‑‑‑` | **carscrapper** | `service` | Car-listing scraper with headless Chromium, in Docker · rust |
 
 <sub><code>drwx------</code> = private repo · linked ones are public</sub>
 
-```console
+```text
 hakan@github:~$ ./stats.sh
 ```
 
@@ -90,7 +90,7 @@ hakan@github:~$ ./stats.sh
   </picture>
 </p>
 
-```console
+```text
 hakan@github:~$ exit
 logout
 Connection to github.com closed.
