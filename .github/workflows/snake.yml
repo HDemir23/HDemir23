@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -13,13 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - uses: actions/checkout@v4
+
+      - name: Generate grayscale snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#7F5AF0&color_dots=#ebedf0,#c9d6ff,#9fb4ff,#7F5AF0,#38BDAE
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#BF91F3&color_dots=#1A1B27,#2B3A67,#4C5FA8,#70A5FD,#38BDAE
+            dist/github-snake.svg?color_snake=#000000&color_dots=#ebedf0,#c6c6c6,#8f8f8f,#555555,#1a1a1a
+            dist/github-snake-dark.svg?color_snake=#ffffff&color_dots=#161616,#3a3a3a,#6e6e6e,#a8a8a8,#e6e6e6
+
+      - name: Generate monochrome languages card
+        run: node .github/scripts/langs.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
