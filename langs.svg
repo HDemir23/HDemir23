@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195">
+  <style>
+    .h { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .t { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" width="349" height="194" rx="4.5" fill="#000000" stroke="#333333"/>
+  <text x="25" y="35" class="h">Most Used Languages</text>
+  <text x="25" y="62" class="t">TypeScript</text>
+  <rect x="125" y="53" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="53" width="85.5" height="8" rx="2" fill="#ffffff"/>
+  <text x="257" y="62" class="t">71.3%</text>
+  <text x="25" y="84" class="t">JavaScript</text>
+  <rect x="125" y="75" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="75" width="31.7" height="8" rx="2" fill="#d4d4d4"/>
+  <text x="257" y="84" class="t">26.4%</text>
+  <text x="25" y="106" class="t">Rust</text>
+  <rect x="125" y="97" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="97" width="2.0" height="8" rx="2" fill="#a8a8a8"/>
+  <text x="257" y="106" class="t">1.6%</text>
+  <text x="25" y="128" class="t">Python</text>
+  <rect x="125" y="119" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="119" width="2.0" height="8" rx="2" fill="#808080"/>
+  <text x="257" y="128" class="t">0.6%</text>
+  <text x="25" y="150" class="t">PLpgSQL</text>
+  <rect x="125" y="141" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="141" width="2.0" height="8" rx="2" fill="#5e5e5e"/>
+  <text x="257" y="150" class="t">0.1%</text>
+  <text x="25" y="172" class="t">PowerShell</text>
+  <rect x="125" y="163" width="120" height="8" rx="2" fill="#1a1a1a"/>
+  <rect x="125" y="163" width="2.0" height="8" rx="2" fill="#444444"/>
+  <text x="257" y="172" class="t">0.0%</text>
+</svg>
